@@ -19,13 +19,3 @@ Este projeto demonstra a implementação de um script básico em Python para aut
 - **WebDriver Manager**: Gerenciamento automático do ChromeDriver.
 
 ---
-
-## ⚙️ Configuração do Ambiente
-
-### Pré-requisitos
-
-1. **Python** instalado (recomenda-se a versão 3.8 ou superior).
-2. Instalar as bibliotecas necessárias:
-
-   ```bash
-   pip install selenium webdriver-manager
